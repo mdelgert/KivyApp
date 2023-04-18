@@ -38,3 +38,6 @@ myApp = Example1App()
 myApp.run()
 
 #https://www.geeksforgeeks.org/python-button-action-in-kivy/
+#https://kivy.org/doc/stable/guide/events.html
+#https://kivy.org/doc/stable/api-kivy.app.html
+#https://kivy.org/doc/stable/gettingstarted/installation.html
